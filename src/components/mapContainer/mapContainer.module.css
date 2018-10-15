@@ -1,0 +1,7 @@
+.mapContainer {
+    background-color: pink;
+    height: 50vh;
+    width: 80vw;
+    top: 50vh;
+    position: fixed;
+}

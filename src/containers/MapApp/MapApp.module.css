@@ -1,0 +1,55 @@
+.MapApp {
+    background-color: none;
+    text-align: center;
+    user-select: none;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:space-around;
+        box-shadow: 10px 10px 30px 5px rgba(0,0,0,0.9);
+}
+/*
+
+.MapApp ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.MapApp li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.MapApp a {
+    text-decoration: none;
+    color: black;
+    padding: 1em;
+    
+}
+
+.MapApp a:hover,
+.MapApp a:active,
+.MapApp a.active{
+    color: darkorange;
+}
+
+p {
+    padding: .5em;
+}
+
+.confirmation {
+    display: grid;
+    grid-auto-flow: column;
+    height: 6em;
+}
+
+@media (max-width: 800px) {
+    .MapApp {
+        width: 100%;
+        margin: 0;
+        font-size: .7em
+    }
+}*/
