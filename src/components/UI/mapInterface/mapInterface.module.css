@@ -1,6 +1,7 @@
 .mapInterface {
     background-color: white;
-    height: 40vh;
-    width: 100vw;
+    height: 30vh;
+    width: 80vw;
     opacity: .9;
+    border: 4px dashed orangered;
 }

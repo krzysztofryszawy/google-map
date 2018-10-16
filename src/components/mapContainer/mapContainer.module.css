@@ -1,7 +1,8 @@
 .mapContainer {
-    background-color: pink;
     height: 50vh;
-    width: 80vw;
+    width: 100vw;
     top: 50vh;
     position: fixed;
+        box-shadow: 10px 10px 30px 5px rgba(0,0,0,0.9);
+
 }
